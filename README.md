@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seethamahalaxmimuppidi
+- 👋 Hi, I’m @srikavya kolikani
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on web developers
